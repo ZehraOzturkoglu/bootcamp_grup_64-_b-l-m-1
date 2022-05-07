@@ -2,7 +2,7 @@ BOOTCAMP GRUP_64
 
 
 TAKIM İSMİ:
-HAPPİEST
+SİNGLEVERSE
 
 ÜRÜNLE İLGİLİ BİLGİLER:
 Takım Elemanları:
