@@ -27,8 +27,15 @@ HEDEF KİTLE:
 •	Online mobil araçlarla öğrenmeyi hedefleyenler
 •	Eğitimde farklılık arayanlar.
 •	11 yaş ve üzeri bütün kullanıcılar.
-Product Backlog URL:
 
+
+Product Backlog URL:
+ 
+ https://miro.com/welcomeonboard/bG5WQmJ0NDFjU0RHbGI1RzhweFV0bk1BQmZaV3FGWTREWjV4RzVkNE40QVNleDQ5MWxFZXZWWTBuU2Q3UnE5NnwzNDU4NzY0NTI0MTMzNTczMzE1?share_link_id=371954972419
+ 
+ 
+ 
+ 
 SPRİNT- 1
 •	Sprint Notları: 
 •	Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
