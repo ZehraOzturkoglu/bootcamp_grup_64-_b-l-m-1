@@ -45,9 +45,38 @@ Product Backlog URL:
  
  
 SPRİNT- 1
-•	Sprint Notları: 
+
 •	Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
-•	Backlog düzeni ve Story seçimleri: Daily Scrum: 
+
+
+•	Sprint Notları: 
+
+Baclog içinde belirttiğim gibi takım olarak bir çalışma gerçekleştirememekteyiz. Takım arkadaşlarıma sprint sonuna kadar ulaşmaya çalıştım bundan dolayı da projenin başlatımı ve ilerlemesi için biraz gecikme yaşadım.
+•	Bu sprintte Proje için gerekli araştırmaları yaparak kendi akademik alanım olan Fen Bilgisi eğitimi içerikli hedef kitlesi geniş bir uygulama projesi başlattım.
+•	Grup üyelerime ulaşmamı sağlayacak gerekli mail ve yazıları yazdım.
+•	Uygulama için ana ekran düzenlemesini gerçekleştirdim.
+
+
+
+
+
+![Dartpad io space test açılış sayfası](https://user-images.githubusercontent.com/104433766/167255792-f02bb989-c140-492d-82db-1b8c58b08cd5.PNG)
+
+
+
+
+![sprint 1 açılış sayfası](https://user-images.githubusercontent.com/104433766/167255589-8e933f4e-0f59-4210-bafe-d05322791206.PNG)
+
+
+
+Sprint Review: 
+Çıkan Ürünün testlerinde bir aksaklık görülmemiştir. 
+Soruların belirlenmesi diğer sprinte bırakılmıştır.
+İçeriğin zenginleştirilip test sorullarının yanında farklı görsel seçeneklerin konulması planlanmaktadır.
+
+
+
+
 
 
 
