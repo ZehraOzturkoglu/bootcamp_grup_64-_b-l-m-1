@@ -36,6 +36,14 @@ Product Backlog URL:
  
  
  
+ 
+ 
+ 
+ ![sprin 1 baclog](https://user-images.githubusercontent.com/104433766/167250970-40d4b81b-1052-497c-8298-44657c26e63c.PNG)
+
+ 
+ 
+ 
 SPRİNT- 1
 •	Sprint Notları: 
 •	Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
