@@ -75,6 +75,7 @@ Soruların belirlenmesi diğer sprinte bırakılmıştır.
 İçeriğin zenginleştirilip test sorullarının yanında farklı görsel seçeneklerin konulması planlanmaktadır.
 
 
+https://gist.github.com/ZehraOzturkoglu/ebc543ac3dbe011e07acb31d2515f311#file-gistfile1-txt
 
 
 
