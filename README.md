@@ -6,10 +6,8 @@ SİNGLEVERSE
 
 ÜRÜNLE İLGİLİ BİLGİLER:
 Takım Elemanları:
-•	Zehra ÖZTÜRKOĞLU: Scrum Master, Project Manager
-•	Nil OKTAR
-•	Aziz DOĞAN
-•	Uygar SÜSLÜ
+•	Zehra ÖZTÜRKOĞLU: Scrum Master, Project Manager( projeyi tek başıma yürütmekteyim)
+
 
 Ürün İsmi:
 --SPACE TEST—
