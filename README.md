@@ -134,6 +134,9 @@ PLANLAMA POKERİ:
 
 Sprint Notları:
 Projenin temel işleyişinde birkaç değişiklik yaparak çalıştıramadığım kodları kaldırdım. Bu şekilde tek sayfada açılır sorular ve cevaplar şeklinde bir düzenleme yaptım. 
+
+
+
 Sprint Review:
 Bu sprint boyunca ailemin yaşadığı sağlık sorunlarının da  etkisiyle çok az çalışma fırsatı yakaladım bundan dolayı önceki sprint hedeflerinin bir çoğunu gerçekleştiremedim. Projeyi kurtarmak adına basitleştirme yoluna giderek içeriği hafiflettim.
 
