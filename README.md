@@ -140,3 +140,7 @@ Projenin temel işleyişinde birkaç değişiklik yaparak çalıştıramadığı
 Sprint Review:
 Bu sprint boyunca ailemin yaşadığı sağlık sorunlarının da  etkisiyle çok az çalışma fırsatı yakaladım bundan dolayı önceki sprint hedeflerinin bir çoğunu gerçekleştiremedim. Projeyi kurtarmak adına basitleştirme yoluna giderek içeriği hafiflettim.
 
+
+https://gist.github.com/ZehraOzturkoglu/ebc543ac3dbe011e07acb31d2515f311
+
+
