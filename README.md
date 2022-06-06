@@ -100,6 +100,9 @@ https://miro.com/welcomeonboard/bG5WQmJ0NDFjU0RHbGI1RzhweFV0bk1BQmZaV3FGWTREWjV4
 
 ![sprint2 1 15 05 2022](https://user-images.githubusercontent.com/104433766/169725386-bccc0aaf-1096-4896-858c-4a52251774bf.PNG)
 
+SPRİNT PUANI: 80
+
+![SPRİNT 3 PUAN TAHMİNİ-PLANLAMA POKERİ](https://user-images.githubusercontent.com/104433766/172159582-cea47342-e37f-4c0e-9250-7ae3abe3aae0.PNG)
 
 
 Sprint Notları:
