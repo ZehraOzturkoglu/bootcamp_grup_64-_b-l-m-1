@@ -79,8 +79,6 @@ SPRİNT- 2
 
 
 
-
-
 ![SPRİNT_2 BACKLOG](https://user-images.githubusercontent.com/104433766/169725466-262822bc-f28e-40ac-9f62-1c44437f4d72.PNG)
 
 
@@ -100,9 +98,7 @@ https://miro.com/welcomeonboard/bG5WQmJ0NDFjU0RHbGI1RzhweFV0bk1BQmZaV3FGWTREWjV4
 
 ![sprint2 1 15 05 2022](https://user-images.githubusercontent.com/104433766/169725386-bccc0aaf-1096-4896-858c-4a52251774bf.PNG)
 
-SPRİNT PUANI: 80
 
-![SPRİNT 3 PUAN TAHMİNİ-PLANLAMA POKERİ](https://user-images.githubusercontent.com/104433766/172159582-cea47342-e37f-4c0e-9250-7ae3abe3aae0.PNG)
 
 
 Sprint Notları:
@@ -117,7 +113,27 @@ cevap ikonları ve soru listelerinin düzenlenmesi ile sorular arası geçişi s
 
 https://gist.github.com/ZehraOzturkoglu/ebc543ac3dbe011e07acb31d2515f311
 
+SPRİNT:3
+
+
+![sprint_3 Backlog](https://user-images.githubusercontent.com/104433766/172160045-ecd7c69b-61f9-4b30-be33-d568b8f2a780.PNG)
+
+https://miro.com/welcomeonboard/bG5WQmJ0NDFjU0RHbGI1RzhweFV0bk1BQmZaV3FGWTREWjV4RzVkNE40QVNleDQ5MWxFZXZWWTBuU2Q3UnE5NnwzNDU4NzY0NTI0MTMzNTczMzE1?share_link_id=41014766027
+
+![3 1](https://user-images.githubusercontent.com/104433766/172160221-53b95d17-37ad-400e-8397-50487d6b3288.PNG)
+
+![3 2](https://user-images.githubusercontent.com/104433766/172160281-0222b5ec-681b-44cf-892e-5553e99c21ef.PNG)
+
+SPRİNT PUANI: 80
+PLANLAMA POKERİ:
 
 
 
+
+![SPRİNT 3 PUAN TAHMİNİ-PLANLAMA POKERİ](https://user-images.githubusercontent.com/104433766/172160479-0844e574-6c5a-4f76-8ce6-3cde552f3e57.PNG)
+
+Sprint Notları:
+Projenin temel işleyişinde birkaç değişiklik yaparak çalıştıramadığım kodları kaldırdım. Bu şekilde tek sayfada açılır sorular ve cevaplar şeklinde bir düzenleme yaptım. 
+Sprint Review:
+Bu sprint boyunca ailemin yaşadığı sağlık sorunlarının da  etkisiyle çok az çalışma fırsatı yakaladım bundan dolayı önceki sprint hedeflerinin bir çoğunu gerçekleştiremedim. Projeyi kurtarmak adına basitleştirme yoluna giderek içeriği hafiflettim.
 
